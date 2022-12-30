@@ -261,19 +261,19 @@ class vars(object):
             button()
                 (
                     "➕️ Add Me To Your Group ➕️",
-                        url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
+                        url=f"https://t.me/Spyrosearchbot?startgroup=new"
                 )
         ],
         [
             button()
                 (
-                    "Support",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                    "𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒",
+                        url="https://t.me/SM_DVDUPDATES"
                 ),
             button()
                 (
                     "Updates",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/Moviefilecinema"
                 )
         ],
         [
