@@ -5,7 +5,7 @@ I'm <b>{bot}</b> ✨ an advanced telegram Group management
 
 I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
 
-Join <b><a href=http://t.me/Mo_Tech_YT>my news channel</a></b> to get information on all the latest updates
+Join <b><a href=http://t.me/SPYROMOVIES_TG>my news channel</a></b> to get information on all the latest updates
 """
 
 HELP_TXT = """
@@ -24,8 +24,7 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 """
 
 ABOUT_TXT = """
-[{name}](t.me/{username}) Was created on September 4, 2022
-We are currently developing this bot, using only the Pyrogram library.
+[{name}](t.me/{username}) SPYRO FARM currently developing this bot, using only the Pyrogram library.
 
 ➾ Developers : SPYRO
 ➾ Language : Python3
